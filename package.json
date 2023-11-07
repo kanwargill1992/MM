@@ -1,6 +1,7 @@
 {
   "name": "portfolio",
   "private": true,
+  "homepage": "https://kanwargill1992.github.io/MM/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
